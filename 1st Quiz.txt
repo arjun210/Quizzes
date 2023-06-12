@@ -1,0 +1,66 @@
+1 - True
+
+2 -  Error: invalid syntax
+
+3 - ** (Exponent)
+
+4 -  [0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5]
+
+5 - Error. Mixing operators between numbers and strings are not supported
+
+6 - Salary: 12000 Salary: 8000
+
+7 -  Yes
+ 
+8 -  10, 11, 12, 13, 14,
+
+9 - True
+
+10 - 182.0
+
+11 - 25,125
+
+12 - 30
+
+13 - py
+ 
+14 - The program executed with error
+
+15 -  10 20 30
+
+16 - True,False
+
+17 - The program executed with errors
+
+18 - maJ
+
+19 -  864
+
+20 -  *
+
+21 - 2
+
+22 -  None
+
+23 -  False True True True
+
+24 -  36,3
+
+25 - 15 1
+
+26 - [10, 20],[10, 20, 30, 40]
+
+27 - SynatxError
+
+28 - 50
+
+29 - True
+
+30 - 9.0
+
+31 - 2
+
+32 - 512
+
+33 - -4
+

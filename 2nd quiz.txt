@@ -1,0 +1,144 @@
+1 - A) 99
+ 
+
+2 -  A) True
+
+ 
+
+3 - D) 100
+
+ 
+
+4 -  
+
+ 
+
+5 - C)  2, 1, 0, -1, -2, -3, -4
+
+ 
+
+6 - A) 10 Chair, 10 Table, 20 Chair, 20 Table
+
+ 
+
+7 -  A) Python’s for loop used to iterates over the items of list, tuple, dictionary, set, or string
+
+
+8 -  B) True
+
+ 
+
+9 - B) 11,13
+
+ 
+
+10 - D) 3
+
+ 
+
+11 - D) -2, -3, -4,
+
+ 
+
+12 - A) 2
+
+
+13 - B) J, h, o, n,
+
+
+14 - B) NameError
+
+ 
+
+15 - B)  True
+
+ 
+
+16 - C)  tuple
+
+ 
+
+17 -   A) Error
+
+ 
+
+18 - D) int
+
+ 
+
+19 - C) range
+
+ 
+
+20 -  C) aaa
+
+ 
+
+21 -  A) str1 = 'str1',str1 = "str1",str1 = '''str'''
+
+ 
+
+22 -    ALL
+  str1 = 'Ault\\'Kelly'
+  str1 = 'Ault\'Kelly'
+  str1 = """Ault'Kelly"""
+
+
+ 
+
+23 -   C)  25, 50
+
+ 
+
+24 - A)  True
+
+ 
+
+25 - C) int
+
+ 
+
+26 - B) 5,8,31
+
+ 
+
+27 - A) 1.25+0j)
+
+ 
+
+28 - A) An integer is a whole number that can be positive or negative
+ 
+
+
+29 - A) 100.256,100
+ 
+
+
+30 - B) False
+
+ 
+
+31 -  A)  False
+
+ 
+
+32 -C) 253,252
+ 
+
+
+33 - A) ValueError: invalid literal for int()
+
+
+
+34 - A) a = 10.1256, b = -10.5
+
+
+
+35 - B) complex
+
+
+
+
+36 - A) 45.3
+
+
